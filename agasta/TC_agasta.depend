@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1589222603 source:c:\users\augus\desktop\cg_t3\agasta\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1589222948 c:\users\augus\desktop\cg_t3\agasta\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\augus\desktop\cg_t3\agasta\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\augus\desktop\cg_t3\agasta\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\augus\desktop\cg_t3\agasta\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\augus\desktop\cg_t3\agasta\src\vector2.h
+
+1589489775 source:c:\users\augus\desktop\cg_t3\agasta\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bezier.h"
+	"BezierUtils.h"
+
+1589490603 c:\users\augus\desktop\cg_t3\agasta\src\bezier.h
+	<vector>
+	"BezierUtils.h"
+	"gl_canvas2d.h"
+
+1589490705 c:\users\augus\desktop\cg_t3\agasta\src\bezierutils.h
+	<vector>
+	"BezierHud.h"
+	"ControlPoint.h"
+	"Frames.h"
+	"Point.h"
+	"gl_canvas2d.h"
+
+1589488133 c:\users\augus\desktop\cg_t3\agasta\src\bezierhud.h
+	"Button.h"
+	"Frames.h"
+	"gl_canvas2d.h"
+
+1589436337 c:\users\augus\desktop\cg_t3\agasta\src\button.h
+	"gl_canvas2d.h"
+
+1589480776 c:\users\augus\desktop\cg_t3\agasta\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1589481138 c:\users\augus\desktop\cg_t3\agasta\src\controlpoint.h
+	<math.h>
+	"gl_canvas2d.h"
+
+1589485867 c:\users\augus\desktop\cg_t3\agasta\src\point.h
+	<math.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+
